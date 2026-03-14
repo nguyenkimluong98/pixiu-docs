@@ -1,8 +1,8 @@
 # Mục lục:
 1. [Level](#level)
-2. [Ads](#advertisement)
+2. [Advertisement](#advertisement)
 3. [InApp](#inapp)
-4. Funnel 
+4. [Funnel](#funnel)
 
 
 # Level
@@ -563,3 +563,7 @@ Thanh kéo thể hiện tỉ lệ nạp Inapp trên một tập level chiếm ba
 * Ví dụ: Hình 6.1 tại ngày 09/03/2026, có 2 người dùng nạp inapp, số lượng người dụng hoạt động là 1,235 -> Paying Rate sẽ là 0.16%.
 
 <div align="center"><figure><img width="1429" height="999" alt="Image" src="https://github.com/user-attachments/assets/518d5bc0-023a-4bff-9053-7c8fbe2d5265" /><figcaption><i>Hình 6.1 Biểu dồ Paying Rate theo ngày</i></figcaption></figure></div>
+
+# Funnel
+
+Chưa có gì cả
