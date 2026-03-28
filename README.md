@@ -1,11 +1,16 @@
 # Mục lục:
-
+A. Data analystic
 1. [Level](#level)
 2. [Advertisement](#advertisement)
 3. [InApp](#inapp)
 4. [Funnel](#funnel)
 
-# Level
+B. Event source connector config
+
+<hr/>
+
+# A. Data analystic
+# 1. Level
 
 ## I. Quartiles
 
@@ -213,7 +218,7 @@ $$
 
 <div align="center"><figure><img width="1425" height="957" alt="Image" src="https://github.com/user-attachments/assets/3bee8723-a4df-4a66-9c06-7b3658e163a1" /><figcaption><i>Figure 1.6 Graph of the number of plays by a player at the current level.</i></figcaption></figure></div>
 
-# Advertisement
+# 2. Advertisement
 
 ## I. Filters
 
@@ -496,7 +501,7 @@ $$
 
 <div align="center"><figure><img width="1426" height="997" alt="Image" src="https://github.com/user-attachments/assets/f848b764-6d37-437e-bc8b-e7650a046b3d" /><figcaption><i>Figure 7.1. eCPM diagram</i></figcaption></figure></div>
 
-# InApp
+# 3. InApp
 
 ## I. Filters
 
@@ -568,6 +573,8 @@ The slider shows the percentage of in-app purchases made by a particular level c
 
 <div align="center"><figure><img width="1429" height="999" alt="Image" src="https://github.com/user-attachments/assets/518d5bc0-023a-4bff-9053-7c8fbe2d5265" /><figcaption><i>Figure 6.1 Daily Paying Rate Chart</i></figcaption></figure></div>
 
-# Funnel
+# 4. Funnel
 
 **Nothing yet**
+
+# B. Event source connector config
