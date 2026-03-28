@@ -1,12 +1,13 @@
 # Mục lục:
 A. Data analystic
-1. [Level](#level)
-2. [Advertisement](#advertisement)
-3. [InApp](#inapp)
-4. [Funnel](#funnel)
+1. [Level](#1-level)
+2. [Advertisement](#2-advertisement)
+3. [InApp](#3-inapp)
+4. [Funnel](#4-funnel)
 
 B. Event source connector config
-
+1. [Create a game](#1-create-a-game)
+2. [Create a connector](#2-create-a-connector)
 <hr/>
 
 # A. Data analystic
@@ -578,3 +579,49 @@ The slider shows the percentage of in-app purchases made by a particular level c
 **Nothing yet**
 
 # B. Event source connector config
+
+# 1. Create a game
+- From Sidebar pannel, choose `Overview > Games` to go to game setting page.
+<div align="center"><figure><img width="1716" height="562" alt="image" src="https://github.com/user-attachments/assets/126d060b-b57a-4f23-bde2-edde08c75a7c" />
+</figure></div>
+
+- Click to `Add New Game` to open add game dialog. At this dialog, you need provide the Google Store URL of the game, which get from Google Store page.
+
+**Example**: Getting the URL of Screw Puzzel game, you just need get the URL with only ID of it, other query variable is no need.
+
+The Google Store URL of this game is: `https://play.google.com/store/apps/details?id=com.apollo.screw.it.out`
+
+<div align="center"><img width="1702" height="609" alt="image" src="https://github.com/user-attachments/assets/27cb9aaf-91cf-4636-b3fc-91b8b56e0909" /></figure></div>
+
+- After getting the correct Google Store URL of the game, input it into the dialog then click `Search` button to find the game information. If found a game and make sure the information is corrected, click `Add game` button to register the new game.
+
+<div align="center"><img width="1711" height="880" alt="image" src="https://github.com/user-attachments/assets/843ef43f-f1ee-4ff4-9d46-de39a2b6ceaa" />
+</figure></div>
+
+- The new game is now registered. You can continue to create a connector to link the game with a datasource.
+
+# 2. Create a connector
+- From Sidebar pannel, choose `Overview > Connectors` to go to connector setting page.
+
+At this page, you will see some elements related to config the connectors:
+* Connector/Dataset: Name of the connector (1) and datasets related to the this connector (2). Each connector will have no or many datasets, depend on the number BQ datasets that you have linked to this connector.
+* Linked App: Show the games that linked or not with the corresponding dataset (3). You can link/unlink when using the button at section (4).
+
+**Example**: Dataset `krOQeLHqTrW8cv8PxgNNFA` (first dataset) is not linked with any game. Dataset `analytics_491484878` is linked with `Block Out: Jam Puzzle` game.
+
+<div align="center"><img width="1715" height="806" alt="image" src="https://github.com/user-attachments/assets/ccb66826-243d-4e42-9d59-b0e4ec57dd18" />
+</figure></div>
+
+- To create new connector, click to the button `Add New Connector` to open the create dialog. Input your Connector name then click `Save` button.
+<div align="center"><img width="512" height="447" alt="image" src="https://github.com/user-attachments/assets/34dcb35d-19d8-4af6-9b5f-b2ef569feab4" /></figure></div>
+
+- After the new connector is created, you can see a new information about Google Service Account (GSA). You need to register this GSA with BQ Dataset that containing your data (Following Step in the `Requirements`)
+- You can click copy button to copy this GSA (If copy button is not working, please you Inspect tool of browser to open HTML and copy it in manual)
+- You can also click button information of existing connector to open this dialog to see information of the connector and copy its GSA
+<div align="center"><img width="1447" height="853" alt="image" src="https://github.com/user-attachments/assets/2f9dbc48-56ee-4a74-8e15-e1e7ac8ec877" /></figure></div>
+
+> [!WARNING]  
+> Because we haven't yet developed a feature to delete created connectors, please only create new connectors if you truly want to separate games and not share connectors. From a management perspective, separating connectors makes them easier to identify and avoid errors; however, from a technical standpoint, creating a new connector requires creating new resources, leading to wasted resources.
+
+> [!TIP]
+> If possible, reuse existing connectors to reduce unnecessary operations and resources..
