@@ -8,6 +8,7 @@ A. Data analystic
 B. Event source connector config
 1. [Create a game](#1-create-a-game)
 2. [Create a connector](#2-create-a-connector)
+3. [Link a game](#3-link-a-game)
 <hr/>
 
 # A. Data analystic
@@ -624,4 +625,37 @@ At this page, you will see some elements related to config the connectors:
 > Because we haven't yet developed a feature to delete created connectors, please only create new connectors if you truly want to separate games and not share connectors. From a management perspective, separating connectors makes them easier to identify and avoid errors; however, from a technical standpoint, creating a new connector requires creating new resources, leading to wasted resources.
 
 > [!TIP]
-> If possible, reuse existing connectors to reduce unnecessary operations and resources..
+> If possible, reuse existing connectors to reduce unnecessary operations and resources.
+
+# 3. Link a game
+> [!NOTE]  
+> In this section, I will guide you through setting up and registering a connector with BQ, and then linking your game to the dataset available on BQ. I will utilize an existing connector to optimize resources. If you want to use a new connector, you can create one and follow the same steps.
+> I will reuse `Main connector` in this guide.
+
+- From Step [2. Create a connector](#2-create-a-connector), you have retrieved the GSA of the connector (`sa-26ea0ae294881f12@pixiu-insight.iam.gserviceaccount.com`). You need to register this GSA with BQ to get BQ datasets.
+- To register GSA with your BQ, open Google Cloud Console then go to `IAM & Admin > IAM` service.
+- Click `+ Grant access` to grand your GSA with 3 role:
+  -  BigQuery Data Viewer
+  -  BigQuery Job User
+  -  BigQuery Read Session User
+
+- After register successfully, your GSA may show as the image below.
+
+<div align="center"><img width="1686" height="1236" alt="image" src="https://github.com/user-attachments/assets/2c3c76a6-3c48-4a05-973c-b51c24234c5d" /></figure></div>
+
+> [!NOTE]  
+> You may need to wait some minute to GSA is effected.
+
+- Next, go back to your Connectors screen, click button reload to get the new BQ datasets. You may wait a minus between each refresh click.
+<div align="center"><img width="1432" height="701" alt="image" src="https://github.com/user-attachments/assets/ca5405f7-54d8-4552-8a07-1dcf52effeda" /></figure></div>
+
+- When the new dataset is shown under the corressponding connector, check the dataset name must be the same at the BQ console.
+**Example**: Dataset `analytics_490531765` has the name equal with the name at the BQ service.
+
+<img width="1432" height="701" alt="image" src="https://github.com/user-attachments/assets/d8fac0a9-89be-4f30-8aee-3b7ef071a93d" />
+<img width="652" height="565" alt="image" src="https://github.com/user-attachments/assets/8fdde93f-f97e-45f6-bead-56f097debe62" />
+
+- Now, when the new dataset is corrected, you can link your game with your dataset by click button `Link to app`
+<img width="539" height="240" alt="image" src="https://github.com/user-attachments/assets/908c93db-4763-4b7d-905d-a904b8248fe6" />
+
+- After linked, you now successfully config the datasource for your game.
