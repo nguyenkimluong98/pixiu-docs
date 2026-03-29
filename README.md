@@ -61,7 +61,7 @@ $$
 
 **Example**: Figure 1.1 shows that at level 69, each player needs an average of 0.43 fail attempts to pass level 69. 25% and 50% of players pass the level on their first attempt, and 75% of players need an average of 0.43 attempts to pass the level.
 
-<div align="center"><figure><img width="1428" height="960" alt="Image" src="https://github.com/user-attachments/assets/bfe2a450-c0c9-4ab2-8b84-2c9322d67236" /><figcaption><i>Figure 1.1 Difficulty Chart for Passers-Level Players</i></figcaption></figure></div>
+<div align="center"><figure><img width="1428" height="960" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/level_1-1.png" /><figcaption><i>Figure 1.1 Difficulty Chart for Passers-Level Players</i></figcaption></figure></div>
 
 ### 2. Difficulty for Players Who Fail (Difficulty for Players Who Haven't Passed)
 
@@ -94,7 +94,7 @@ $$
 
 **Example:** Figure 1.2 shows that at level 69, each player averages 3.23 fail attempts and still cannot pass the level. 25% of players only average 0.31 attempts and quit the game, 50% of players average 1.31 attempts and still cannot pass the level, and 75% of players average 1.62 attempts and quit/stop the game at level 69.
 
-<div align="center"><figure><img width="1440" height="970" alt="Image" src="https://github.com/user-attachments/assets/a2ac0e3e-3532-4b3c-b807-e095a11f1ee1" /><figcaption><i>Figure 1.2 Difficulty Chart for Fail Players</i></figcaption></figure></div>
+<div align="center"><figure><img width="1440" height="970" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/level_1-2.png" /><figcaption><i>Figure 1.2 Difficulty Chart for Fail Players</i></figcaption></figure></div>
 
 ### 3. Percentage of Players Who Haven't Passed a Level
 
@@ -131,7 +131,7 @@ $$
 
 **Example:** Figure 1.3 shows that 6.21% of players have not yet passed level 69.
 
-<div align="center"><figure><img width="1434" height="966" alt="Image" src="https://github.com/user-attachments/assets/e90ee59b-054c-4797-9c9a-73c5d232a8ab" /><figcaption><i>Figure 1.3. Chart showing the percentage of players who have not yet passed a level.</i></figcaption></figure></div>
+<div align="center"><figure><img width="1434" height="966" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/level_1-3.png" /><figcaption><i>Figure 1.3. Chart showing the percentage of players who have not yet passed a level.</i></figcaption></figure></div>
 
 ### 4. Total Players by Level
 
@@ -164,7 +164,7 @@ $$
 
 **Example:**
 
-<div align="center"><figure><img width="1430" height="960" alt="Image" src="https://github.com/user-attachments/assets/558454f1-b051-449b-ac00-e40f09ac3f17" /><figcaption><i>Figure 1.4. Chart of Total Players by Level</i></figcaption></figure></div>
+<div align="center"><figure><img width="1430" height="960" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/level_1-4.png" /><figcaption><i>Figure 1.4. Chart of Total Players by Level</i></figcaption></figure></div>
 
 ### 5. Average Playtime
 
@@ -194,7 +194,7 @@ $$
 
 **Example**: Figure 1.5, at current level 69, the average time to pass the level is 339.02 (s) and the average time to fail is 240.88 (s).
 
-<div align="center"><figure><img width="1434" height="960" alt="Image" src="https://github.com/user-attachments/assets/13eb60af-a360-4a2a-92ad-03daf4c31fb2" /><figcaption><i>Figure 1.5 Average time graph</i></figcaption></figure></div>
+<div align="center"><figure><img width="1434" height="960" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/level_1-5.png" /><figcaption><i>Figure 1.5 Average time graph</i></figcaption></figure></div>
 
 ### 6. Số lượt chơi ở level hiện tại
 
@@ -218,7 +218,7 @@ $$
 
 **Example**: In Figure 1.6, at level 69, there were 332 plays with the status Pass and 185 plays with the status Fail.
 
-<div align="center"><figure><img width="1425" height="957" alt="Image" src="https://github.com/user-attachments/assets/3bee8723-a4df-4a66-9c06-7b3658e163a1" /><figcaption><i>Figure 1.6 Graph of the number of plays by a player at the current level.</i></figcaption></figure></div>
+<div align="center"><figure><img width="1425" height="957" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/level_1-6.png" /><figcaption><i>Figure 1.6 Graph of the number of plays by a player at the current level.</i></figcaption></figure></div>
 
 # 2. Advertisement
 
@@ -255,9 +255,9 @@ $$
   - Day: Log recording time/time the player first opened the game, depending on the filter selection.
   - **Impression**: Total number of ads in the day.
 
-**Example**: Figure 1.1 shows the growth in ad views over recent days.
+**Example**: Figure 2.1 shows the growth in ad views over recent days.
 
-<div align="center"><figure><img width="1431" height="1031" alt="Image" src="https://github.com/user-attachments/assets/4cb497c1-d3b0-4a48-b87c-9707a46f1109" /><figcaption><i>Figure 1.1. Chart of total ad views by date</i></figcaption></figure></div>
+<div align="center"><figure><img width="1431" height="1031" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/ad_2-1.png" /><figcaption><i>Figure 2.1. Chart of total ad views by date</i></figcaption></figure></div>
 
 ### 2. Total Ad Views by Level (Imp by Level)
 
@@ -291,13 +291,13 @@ $$
 - Where:
   - **Impression**: Total number of ads.
 
-**Example**: Figure 2.1 shows that level 8 has the highest number of viewed ads.
+**Example**: Figure 2.2 shows that level 8 has the highest number of viewed ads.
 
-<div align="center"><figure><img width="1426" height="1120" alt="Image" src="https://github.com/user-attachments/assets/c040e67a-a6d2-420c-955d-24377d19cf13" /><figcaption><p><i>Figure 2.1. Chart of Total Ad Views by Level</i></p></figcaption></figure></div>
+<div align="center"><figure><img width="1426" height="1120" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/ad_2-2.png" /><figcaption><p><i>Figure 2.2. Chart of Total Ad Views by Level</i></p></figcaption></figure></div>
 
 The slider shows the percentage of ads on a given level compared to the total number of ads across all levels (Ad allocation ratio by level).
 
-<div align="center"><figure><img width="605" height="88" alt="Image" src="https://github.com/user-attachments/assets/c4f85d17-85ac-4812-8856-6af0288168fc" /><figcaption><p><i>Figure 2.2. The slider shows the ad allocation ratio by level.</i></p></figcaption></figure></div>
+<div align="center"><figure><img width="605" height="88" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/ad_2-2b.png" /><figcaption><p><i>Figure 2.2. The slider shows the ad allocation ratio by level.</i></p></figcaption></figure></div>
 
 ### 3. Imp/DAU
 
@@ -337,9 +337,9 @@ $$
   - **Impression**: Total number of ads in the day.
   - **DAU (Daily Engaged User)**: Number of players who entered the game in the day.
 
-**Example**: Figure 3.1 shows that on March 9, 2026, 2,209 players opened the game; on average, each player viewed 43.91 ads.
+**Example**: Figure 2.3 shows that on March 9, 2026, 2,209 players opened the game; on average, each player viewed 43.91 ads.
 
-<div align="center"><figure><img width="1429" height="997" alt="Image" src="https://github.com/user-attachments/assets/54848575-0b49-4010-974a-1d163d09645e" /><figcaption><i>Figure 3.1. Impression/DAU chart</i></figcaption></figure></div>
+<div align="center"><figure><img width="1429" height="997" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/ad_2-3.png" /><figcaption><i>Figure 2.3. Impression/DAU chart</i></figcaption></figure></div>
 
 ### 4. Impression/DEU
 
@@ -377,9 +377,9 @@ $$
   - **Impression**: Total number of ads in the day.
   - **DEU (Daily Engaged User)**: Number of players who viewed ads in the day.
 
-Example: Figure 4.1 shows that on March 9, 2026, 1,834 players opened the game and viewed at least one ad, meaning each player viewed an average of 52.89 ads.
+Example: Figure 2.4 shows that on March 9, 2026, 1,834 players opened the game and viewed at least one ad, meaning each player viewed an average of 52.89 ads.
 
-<div align="center"><figure><img width="1428" height="1004" alt="Image" src="https://github.com/user-attachments/assets/b6837496-52fe-4ef1-ad9f-006aca663726" /><figcaption><i>Figure 4.1. Impression/DEU chart</i></figcaption></figure></div>
+<div align="center"><figure><img width="1428" height="1004" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/ad_2-4.png" /><figcaption><i>Figure 2.4. Impression/DEU chart</i></figcaption></figure></div>
 
 ### 5. Impression/LEU (Level)
 
@@ -417,9 +417,9 @@ $$
   - **Impression**: Total number of ads in the day.
   - **LEU (Level Engaged User)**: Number of players who viewed ads in the day.
 
-**Example**: Figure 5.1 shows that at level 69, 353 players opened the game; on average, each player viewed 9.34 ads upon opening the game.
+**Example**: Figure 2.5 shows that at level 69, 353 players opened the game; on average, each player viewed 9.34 ads upon opening the game.
 
-<div align="center"><figure><img width="1432" height="1077" alt="Image" src="https://github.com/user-attachments/assets/57d3c15a-2c6f-42a7-83be-30d1cd734f39" /><figcaption><i>Figure 5.1. Impression/LAU chart</i></figcaption></figure></div>
+<div align="center"><figure><img width="1432" height="1077" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/ad_2-5.png" /><figcaption><i>Figure 2.5. Impression/LAU chart</i></figcaption></figure></div>
 
 ### 6. Revenue/DAU (ARPDAU)
 
@@ -459,9 +459,9 @@ $$
   - **Impression**: Total number of ads in the day.
   - **DAU (Daily Engaged User)**: Number of players who entered the game in the day.
 
-**Example**: Figure 6.1 shows that on March 9, 2026, with revenue from ad views of 253.19 ($), there were 2,209 active users -> ARPDAU is 0.11 (¢).
+**Example**: Figure 2.6 shows that on March 9, 2026, with revenue from ad views of 253.19 ($), there were 2,209 active users -> ARPDAU is 0.11 (¢).
 
-<div align="center"><figure><img width="1428" height="998" alt="Image" src="https://github.com/user-attachments/assets/b5621f23-b4df-4632-9d6a-9d6a4eb4b72d" /><figcaption><i>Figure 6.1. ARPDAU diagram</i></figcaption></figure></div>
+<div align="center"><figure><img width="1428" height="998" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/ad_2-6.png" /><figcaption><i>Figure 2.6. ARPDAU diagram</i></figcaption></figure></div>
 
 ### 7. eCPM ( Effective cost per thousand impressions)
 
@@ -499,9 +499,9 @@ $$
 - Where:
   - Day: log recording time/time the player first opens the game, depending on the filter selection
 
-**Example**: Figure 7.1 shows that on March 9, 2026, with revenue of 253.19 ($), and 96,999 ad impressions, we can calculate the eCPM as 2.61 ($).
+**Example**: Figure 2.7 shows that on March 9, 2026, with revenue of 253.19 ($), and 96,999 ad impressions, we can calculate the eCPM as 2.61 ($).
 
-<div align="center"><figure><img width="1426" height="997" alt="Image" src="https://github.com/user-attachments/assets/f848b764-6d37-437e-bc8b-e7650a046b3d" /><figcaption><i>Figure 7.1. eCPM diagram</i></figcaption></figure></div>
+<div align="center"><figure><img width="1426" height="997" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/ad_2-7.png" /><figcaption><i>Figure 2.7. eCPM diagram</i></figcaption></figure></div>
 
 # 3. InApp
 
@@ -523,18 +523,18 @@ The chart shows the amount of Inapp purchases made by players distributed by day
 
 - Unit: USD
 
-Example: Figure 1.1 shows that on March 9, 2026, players made the most Inapp purchases in the month, with the strongest spending occurring when purchasing `battle.pass`
+Example: Figure 3.1 shows that on March 9, 2026, players made the most Inapp purchases in the month, with the strongest spending occurring when purchasing `battle.pass`
 
-<div align="center"><figure><img width="1429" height="1030" alt="Image" src="https://github.com/user-attachments/assets/37612024-0d87-451c-829d-5ca6f0af9105" /><figcaption><i>Figure 1.1. Total In-App Purchases by Day Chart</i></figcaption></figure></div>
+<div align="center"><figure><img width="1429" height="1030" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/iap_3-1.png" /><figcaption><i>Figure 3.1. Total In-App Purchases by Day Chart</i></figcaption></figure></div>
 
 ### 2. ARPDAU by Day
 
 - ARPDAU: Average Revenue Per Daily Active User.
 - This graph shows the average in-app revenue per daily active player.
 - Formula: ARPDAU = Total Daily Revenue / Total Daily Active Players
-- Example: Figure 2.1 shows that on March 8, 2026, the in-app revenue was $19.99, there were 1,182 active users, and the ARPDAU was 0.02¢
+- Example: Figure 3.2 shows that on March 8, 2026, the in-app revenue was $19.99, there were 1,182 active users, and the ARPDAU was 0.02¢
 
-<div align="center"><figure><img width="1427" height="998" alt="Image" src="https://github.com/user-attachments/assets/d6a75c2f-b186-4f15-ae0e-2a2395e6f15d" /><figcaption><i>Figure 2.1. ARPDAU chart by day</i></figcaption></figure></div>
+<div align="center"><figure><img width="1427" height="998" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/iap_3-2.png" /><figcaption><i>Figure 3.2. ARPDAU chart by day</i></figcaption></figure></div>
 
 ### 3. Total In-App Purchases by Level
 
@@ -542,38 +542,38 @@ This chart shows the amount of In-App purchases made by players, distributed by 
 
 - Unit: USD
 
-Example: Figure 3.1 shows that players spend the most In-App purchases within the level range of 3-111.
+Example: Figure 3.3 shows that players spend the most In-App purchases within the level range of 3-111.
 
-<div align="center"><figure><img width="1425" height="1117" alt="Image" src="https://github.com/user-attachments/assets/d0f52e9a-bcc0-4f10-919e-6a2deac9c1b4" /><figcaption><i>Figure 3.1. Total In-App Purchases Chart by Level</i></figcaption></figure></div>
+<div align="center"><figure><img width="1425" height="1117" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/iap_3-3.png" /><figcaption><i>Figure 3.3. Total In-App Purchases Chart by Level</i></figcaption></figure></div>
 
 The slider shows the percentage of in-app purchases made by a particular level compared to the total in-app purchases across all levels (In-app purchase allocation ratio by level).
 
-<div align="center"><figure><img width="620" height="94" alt="Image" src="https://github.com/user-attachments/assets/2158c149-54c6-4734-94f6-f55b9e42cd52" /><figcaption><p><i>Figure 3.2. The slider shows the distribution ratio of Inapp amount by level.</i></p></figcaption></figure></div>
+<div align="center"><figure><img width="620" height="94" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/iap_3-3b.png" /><figcaption><p><i>Figure 3.3. The slider shows the distribution ratio of Inapp amount by level.</i></p></figcaption></figure></div>
 
 ### 4. ARPDAU by Level
 
 - This chart shows the average in-app revenue per active player for each level.
 - Formula: ARPDAU by level = Total revenue per level / Total active players per level
-- Example: Figure 4.1 shows that at level 51, the in-app revenue is $7.99, there are 223 active users, and the ARPDAU is 0.04¢
+- Example: Figure 3.4 shows that at level 51, the in-app revenue is $7.99, there are 223 active users, and the ARPDAU is 0.04¢
 
-<div align="center"><figure><img width="1432" height="1080" alt="Image" src="https://github.com/user-attachments/assets/556906ce-056f-4981-9e20-1539805954fd" /><figcaption><i>Figure 4.1 ARPDAU chart by level</i></figcaption></figure></div>
+<div align="center"><figure><img width="1432" height="1080" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/iap_3-4.png" /><figcaption><i>Figure 3.4 ARPDAU chart by level</i></figcaption></figure></div>
 
 ### 5. Daily ARPPU
 
 - ARPPU: Average revenue per paying user - is a measure used to calculate the average revenue generated by paying users over a given period.
 - The graph shows the average revenue per in-app purchaser.
 - Calculation formula: ARPPU = Total revenue generated during period X / Total number of in-app purchasers during period X.
-- Example: According to Figure 5.1, on March 9, 2026, the revenue was 24.96 ($), and the number of in-app purchasers was 2 -> ARPPU = 12.48 ($).
+- Example: According to Figure 3.5, on March 9, 2026, the revenue was 24.96 ($), and the number of in-app purchasers was 2 -> ARPPU = 12.48 ($).
 
-<div align="center"><figure><img width="1428" height="1000" alt="Image" src="https://github.com/user-attachments/assets/8bb09e2e-5b9b-48c9-989a-78795ecabbde" /><figcaption><i>Figure 5.1. ARPPU chart by day</i></figcaption></figure></div>
+<div align="center"><figure><img width="1428" height="1000" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/iap_3-5.png" /><figcaption><i>Figure 3.5. ARPPU chart by day</i></figcaption></figure></div>
 
 ### 6. Daily Paying Rate
 
 - This chart shows the ratio of in-app purchases to the total number of active players daily. This provides detailed information about the game's monetization efficiency and engagement level.
 - Formula: Paying Rate = Total number of in-app purchases in a given period X \* 100 / Total number of active users in the same period X.
-- Example: In Figure 6.1 on March 9, 2026, there were 2 in-app purchases, and the number of active users was 1,235 -> The Paying Rate would be 0.16%.
+- Example: In Figure 3.6 on March 9, 2026, there were 2 in-app purchases, and the number of active users was 1,235 -> The Paying Rate would be 0.16%.
 
-<div align="center"><figure><img width="1429" height="999" alt="Image" src="https://github.com/user-attachments/assets/518d5bc0-023a-4bff-9053-7c8fbe2d5265" /><figcaption><i>Figure 6.1 Daily Paying Rate Chart</i></figcaption></figure></div>
+<div align="center"><figure><img width="1429" height="999" alt="Image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/iap_3-6.png" /><figcaption><i>Figure 3.6 Daily Paying Rate Chart</i></figcaption></figure></div>
 
 # 4. Funnel
 
@@ -583,7 +583,7 @@ The slider shows the percentage of in-app purchases made by a particular level c
 
 # 1. Create a game
 - From Sidebar pannel, choose `Overview > Games` to go to game setting page.
-<div align="center"><figure><img width="1716" height="562" alt="image" src="https://github.com/user-attachments/assets/126d060b-b57a-4f23-bde2-edde08c75a7c" />
+<div align="center"><figure><img width="1716" height="562" alt="image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/B1_1.png" />
 </figure></div>
 
 - Click to `Add New Game` to open add game dialog. At this dialog, you need provide the Google Store URL of the game, which get from Google Store page.
@@ -592,11 +592,11 @@ The slider shows the percentage of in-app purchases made by a particular level c
 
 The Google Store URL of this game is: `https://play.google.com/store/apps/details?id=com.apollo.screw.it.out`
 
-<div align="center"><img width="1702" height="609" alt="image" src="https://github.com/user-attachments/assets/27cb9aaf-91cf-4636-b3fc-91b8b56e0909" /></figure></div>
+<div align="center"><figure><img width="1702" height="609" alt="image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/B1_2.png" /></figure></div>
 
 - After getting the correct Google Store URL of the game, input it into the dialog then click `Search` button to find the game information. If found a game and make sure the information is corrected, click `Add game` button to register the new game.
 
-<div align="center"><img width="1711" height="880" alt="image" src="https://github.com/user-attachments/assets/843ef43f-f1ee-4ff4-9d46-de39a2b6ceaa" />
+<div align="center"><figure><img width="1711" height="880" alt="image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/B1_3.png" />
 </figure></div>
 
 - The new game is now registered. You can continue to create a connector to link the game with a datasource.
@@ -610,16 +610,16 @@ At this page, you will see some elements related to config the connectors:
 
 **Example**: Dataset `krOQeLHqTrW8cv8PxgNNFA` (first dataset) is not linked with any game. Dataset `analytics_491484878` is linked with `Block Out: Jam Puzzle` game.
 
-<div align="center"><img width="1715" height="806" alt="image" src="https://github.com/user-attachments/assets/ccb66826-243d-4e42-9d59-b0e4ec57dd18" />
+<div align="center"><figure><img width="1715" height="806" alt="image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/B2_1.png" />
 </figure></div>
 
 - To create new connector, click to the button `Add New Connector` to open the create dialog. Input your Connector name then click `Save` button.
-<div align="center"><img width="512" height="447" alt="image" src="https://github.com/user-attachments/assets/34dcb35d-19d8-4af6-9b5f-b2ef569feab4" /></figure></div>
+<div align="center"><figure><img width="512" height="447" alt="image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/B2_2.png" /></figure></div>
 
 - After the new connector is created, you can see a new information about Google Service Account (GSA). You need to register this GSA with BQ Dataset that containing your data (Following Step in the `Requirements`)
 - You can click copy button to copy this GSA (If copy button is not working, please you Inspect tool of browser to open HTML and copy it in manual)
 - You can also click button information of existing connector to open this dialog to see information of the connector and copy its GSA
-<div align="center"><img width="1447" height="853" alt="image" src="https://github.com/user-attachments/assets/2f9dbc48-56ee-4a74-8e15-e1e7ac8ec877" /></figure></div>
+<div align="center"><figure><img width="1447" height="853" alt="image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/B2_3.png" /></figure></div>
 
 > [!WARNING]  
 > Because we haven't yet developed a feature to delete created connectors, please only create new connectors if you truly want to separate games and not share connectors. From a management perspective, separating connectors makes them easier to identify and avoid errors; however, from a technical standpoint, creating a new connector requires creating new resources, leading to wasted resources.
@@ -641,21 +641,23 @@ At this page, you will see some elements related to config the connectors:
 
 - After register successfully, your GSA may show as the image below.
 
-<div align="center"><img width="1686" height="1236" alt="image" src="https://github.com/user-attachments/assets/2c3c76a6-3c48-4a05-973c-b51c24234c5d" /></figure></div>
+<div align="center"><figure><img width="1686" height="1236" alt="image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/B3_1.png" /></figure></div>
 
 > [!NOTE]  
 > You may need to wait some minute to GSA is effected.
 
 - Next, go back to your Connectors screen, click button reload to get the new BQ datasets. You may wait a minus between each refresh click.
-<div align="center"><img width="1432" height="701" alt="image" src="https://github.com/user-attachments/assets/ca5405f7-54d8-4552-8a07-1dcf52effeda" /></figure></div>
+
+<div align="center"><figure><img width="1432" height="701" alt="image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/B3_2.png" /></figure></div>
 
 - When the new dataset is shown under the corressponding connector, check the dataset name must be the same at the BQ console.
 **Example**: Dataset `analytics_490531765` has the name equal with the name at the BQ service.
 
-<img width="1432" height="701" alt="image" src="https://github.com/user-attachments/assets/d8fac0a9-89be-4f30-8aee-3b7ef071a93d" />
-<img width="652" height="565" alt="image" src="https://github.com/user-attachments/assets/8fdde93f-f97e-45f6-bead-56f097debe62" />
+<div align="center"><figure><img width="1432" height="701" alt="image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/B3_3.png" /></figure></div>
+<div align="center"><figure><img width="652" height="565" alt="image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/B3_4.png" /></figure></div>
 
 - Now, when the new dataset is corrected, you can link your game with your dataset by click button `Link to app`
-<img width="539" height="240" alt="image" src="https://github.com/user-attachments/assets/908c93db-4763-4b7d-905d-a904b8248fe6" />
+
+<div align="center"><figure><img width="539" height="240" alt="image" src="https://github.com/nguyenkimluong98/pixiu-docs/blob/master/assets/B3_5.png" /></figure></div>
 
 - After linked, you now successfully config the datasource for your game.
